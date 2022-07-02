@@ -1,3 +1,5 @@
+markdown: kramdown
+
 # Programming
 
 ## Sem 5
